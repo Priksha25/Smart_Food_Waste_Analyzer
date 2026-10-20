@@ -1,0 +1,115 @@
+
+food_name,quantity_kg,category,freshness
+Rice,5,Cooked,Good
+Roti,3,Cooked,Good
+Dal,2,Cooked,Medium
+Bread,4,Bakery,Poor
+Apples,6,Fruits,Good
+Vegetables,5,Vegetables,Medium
+Pasta,3,Cooked,Good
+Cake,2,Bakery,Poor
+Bananas,4,Fruits,Medium
+Spinach,3,Vegetables,Poor
+Idli,2,Cooked,Medium
+Biscuits,1,Bakery,Goodfood_name	quantity_kg	category	freshness	
+Rice	4	Cooked	Good	
+Roti	11	Cooked	Poor	
+Dal	6	Cooked	Medium	
+Bread	1	Bakery	Good	
+Apples	8	Fruits	Good	
+Vegetables	3	Vegetables	Poor	
+Pasta	10	Cooked	Medium	
+Cake	5	Bakery	Good	
+Bananas	12	Fruits	Good	
+Spinach	7	Vegetables	Poor	
+Idli	2	Cooked	Medium	
+Biscuits	9	Bakery	Good	
+Chapati	4	Cooked	Good	
+Samosa	11	Snacks	Poor	
+Oranges	6	Fruits	Medium	
+Potatoes	1	Vegetables	Good	
+Sandwich	8	Snacks	Good	
+Muffins	3	Bakery	Poor	
+Grapes	10	Fruits	Medium	
+Carrots	5	Vegetables	Good	
+Khichdi	12	Cooked	Good	
+Noodles	7	Cooked	Poor	
+Cookies	2	Bakery	Medium	
+Mangoes	9	Fruits	Good	
+Cucumber	4	Vegetables	Good	
+Rice	11	Cooked	Poor	
+Roti	6	Cooked	Medium	
+Dal	1	Cooked	Good	
+Bread	8	Bakery	Good	
+Apples	3	Fruits	Poor	
+Vegetables	10	Vegetables	Medium	
+Pasta	5	Cooked	Good	
+Cake	12	Bakery	Good	
+Bananas	7	Fruits	Poor	
+Spinach	2	Vegetables	Medium	
+Idli	9	Cooked	Good	
+Biscuits	4	Bakery	Good	
+Chapati	11	Cooked	Poor	
+Samosa	6	Snacks	Medium	
+Oranges	1	Fruits	Good	
+Potatoes	8	Vegetables	Good	
+Sandwich	3	Snacks	Poor	
+Muffins	10	Bakery	Medium	
+Grapes	5	Fruits	Good	
+Carrots	12	Vegetables	Good	
+Khichdi	7	Cooked	Poor	
+Noodles	2	Cooked	Medium	
+Cookies	9	Bakery	Good	
+Mangoes	4	Fruits	Good	
+Cucumber	11	Vegetables	Poor	
+Rice	6	Cooked	Medium	
+Roti	1	Cooked	Good	
+Dal	8	Cooked	Good	
+Bread	3	Bakery	Poor	
+Apples	10	Fruits	Medium	
+Vegetables	5	Vegetables	Good	
+Pasta	12	Cooked	Good	
+Cake	7	Bakery	Poor	
+Bananas	2	Fruits	Medium	
+Spinach	9	Vegetables	Good	
+Idli	4	Cooked	Good	
+Biscuits	11	Bakery	Poor	
+Chapati	6	Cooked	Medium	
+Samosa	1	Snacks	Good	
+Oranges	8	Fruits	Good	
+Potatoes	3	Vegetables	Poor	
+Sandwich	10	Snacks	Medium	
+Muffins	5	Bakery	Good	
+Grapes	12	Fruits	Good	
+Carrots	7	Vegetables	Poor	
+Khichdi	2	Cooked	Medium	
+Noodles	9	Cooked	Good	
+Cookies	4	Bakery	Good	
+Mangoes	11	Fruits	Poor	
+Cucumber	6	Vegetables	Medium	
+Rice	1	Cooked	Good	
+Roti	8	Cooked	Good	
+Dal	3	Cooked	Poor	
+Bread	10	Bakery	Medium	
+Apples	5	Fruits	Good	
+Vegetables	12	Vegetables	Good	
+Pasta	7	Cooked	Poor	
+Cake	2	Bakery	Medium	
+Bananas	9	Fruits	Good	
+Spinach	4	Vegetables	Good	
+Idli	11	Cooked	Poor	
+Biscuits	6	Bakery	Medium	
+Chapati	1	Cooked	Good	
+Samosa	8	Snacks	Good	
+Oranges	3	Fruits	Poor	
+Potatoes	10	Vegetables	Medium	
+Sandwich	5	Snacks	Good	
+Muffins	12	Bakery	Good	
+Grapes	7	Fruits	Poor	
+Carrots	2	Vegetables	Medium	
+Khichdi	9	Cooked	Good	
+Noodles	4	Cooked	Good	
+Cookies	11	Bakery	Poor	
+Mangoes	6	Fruits	Medium	
+Cucumber	1	Vegetables	Good	
+				
